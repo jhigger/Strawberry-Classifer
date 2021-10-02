@@ -7,7 +7,7 @@
   },
   {
    "optionDest": "filenames",
-   "value": "D:/VSCode/RED/ThesisStrawberryImageClassificationML-main/app/server.py"
+   "value": "D:/VSCode/RED/Strawberry Classifer/app/server.py"
   },
   {
    "optionDest": "onefile",
@@ -67,15 +67,15 @@
   },
   {
    "optionDest": "datas",
-   "value": "D:/VSCode/RED/ThesisStrawberryImageClassificationML-main/app/models;models/"
+   "value": "D:/VSCode/RED/Strawberry Classifer/app/models;models/"
   },
   {
    "optionDest": "datas",
-   "value": "D:/VSCode/RED/ThesisStrawberryImageClassificationML-main/app/static;static/"
+   "value": "D:/VSCode/RED/Strawberry Classifer/app/static;static/"
   },
   {
    "optionDest": "datas",
-   "value": "D:/VSCode/RED/ThesisStrawberryImageClassificationML-main/app/view;view/"
+   "value": "D:/VSCode/RED/Strawberry Classifer/app/view;view/"
   },
   {
    "optionDest": "hiddenimports",
