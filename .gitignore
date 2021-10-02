@@ -1,1 +1,3 @@
 app/models/export.pkl
+app/__pycache__/server.cpython-37.pyc
+app/output/StrawberryClassifier.exe
